@@ -1,9 +1,9 @@
+streamlit
 numpy
 pandas
-tensorflow
+tensorflow-cpu
 keras
 matplotlib
-opencv-python
+opencv-python-headless
 scikit-learn
-jupyter
-kaggle
+pillow
